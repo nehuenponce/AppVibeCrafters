@@ -1,3 +1,5 @@
-# AppVibeCrafters
+# Creative Agency Website
 
-¡Bienvenido al nuevo hito en el repositorio de VibeCrafters en GitHub! Este proyecto es el resultado de la fusión entre la pasión por la innovación y la creatividad sin límites. Sumérgete en una experiencia digital única: una aplicación web que deslumbra con su diseño vanguardista y funcionalidades cautivadoras. Desde su interfaz visualmente impactante que refleja la esencia de VibeCrafters hasta su arquitectura técnica sólida que garantiza un rendimiento excepcional, este proyecto es un testimonio del compromiso con la excelencia digital. Aquí, el equipo de VibeCrafters ha dado vida a una solución que no solo sigue estándares actuales, sino que marca un nuevo estándar en la industria. ¡Explora este repositorio y sumérgete en la vanguardia de la artesanía digital, donde VibeCrafters redefine las experiencias digitales de manera espectacular!
+> Simple HTML/CSS website from the [YouTube tutorial project](https://www.youtube.com/watch?v=lvYnfMOUOJY&t=274s)
+![Creative Agency](/images/screenshot.png 'Creative Agency')
+[LIVE PREVIEW](https://raw.githack.com/bradtraversy/creative-agency-website/master/index.html)
